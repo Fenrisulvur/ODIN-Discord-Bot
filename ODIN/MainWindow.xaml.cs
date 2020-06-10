@@ -78,7 +78,7 @@ namespace IslaBot
             ApplTitle.Content = "ODIN Version 1.0.0";
             var Config = new IslaConfig
             {
-                Token = "NDg1NzUxNDM5NDM2ODA4MTky.Dm1HLQ.1wJItNnxpQBVc_dNdoG674XWrSI",
+                Token = "",
                 SocketConfig = SocketConfig.GetDefault()
                 
             };
